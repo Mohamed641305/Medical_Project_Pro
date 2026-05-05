@@ -164,7 +164,7 @@ while ($d = $dRes->fetch(PDO::FETCH_ASSOC)) {
       border-radius: 12px;
       border-bottom: 3px solid #0d5c56;
     }
-    
+
     td {
       background: #f9fafb;
       padding: 12px;
