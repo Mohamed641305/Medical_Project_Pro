@@ -1,4 +1,4 @@
-<footer class="bg-dark text-light mt-5 py-3">
+<!-- <footer class="bg-dark text-light mt-5 py-3">
 
   <div class="container text-center">
 
@@ -35,7 +35,7 @@
 
   </div>
 
-</footer>
+</footer> -->
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
